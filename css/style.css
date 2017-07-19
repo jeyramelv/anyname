@@ -1,16 +1,14 @@
-
 body, html {
 	background: teal;
 }
-
 .content {
 	 width: 500px;
 	 margin: auto;
 }
-
 blockquote {
 	border: 1px solid green;
 	text-align: center;
 	margin-left: 0;
 }
+
 
